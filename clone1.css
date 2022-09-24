@@ -141,8 +141,8 @@ img {
 
     .pic{
         flex-direction: column;
-        margin-left: 1px;
-        width: 340px;
+        margin-left: 0.5px;
+        width: 300px;
         height: 1650px;
     }
 
